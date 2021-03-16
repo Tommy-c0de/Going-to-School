@@ -1,0 +1,114 @@
+.Images {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+.costCo {
+    display: none;
+}
+
+.dehydration {
+    display: none;
+}
+
+.shopping {
+    display: none;
+}
+
+.bus {
+    display: none;
+}
+
+.walk {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+body {
+    background-color: pink;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.lavaFloor {
+    display: none;
+}
+
+.cleanFloor {
+    display: none;
+}
+
+.alarm {
+    display: none;
+}
+
+.no {
+    display: none;
+}
+
+.yes {
+    display: none;
+}
+
+.afterLava {
+    display: none;
+}
+
+.end1 {
+    display: none;
+}
+
+.busButton {
+    display: none;
+}
+
+.walkButton {
+    display: none;
+}
+
+.next2 {
+    display: none;
+}
+
+.school {
+    display: none;
+}
+
+.shop {
+    display: none;
+}
+
+.mayo {
+    display: none;
+}
+
+.nice {
+    display: none;
+}
+
+.end2 {
+    display: none;
+}
+
+.robber {
+    display: none;
+}
